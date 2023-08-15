@@ -1,0 +1,12 @@
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Persistencia\LibroJpaController.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Entidades\Autor.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Entidades\Libro.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Servicios\Servicio.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Persistencia\CRUD.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Persistencia\exceptions\NonexistentEntityException.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Entidades\Editorial.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Persistencia\EditorialJpaController.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\LibreriaJPA.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Persistencia\AutorJpaController.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Persistencia\exceptions\IllegalOrphanException.java
+C:\Users\usuario\Documents\LibreriaJPA\src\main\java\com\mycompany\libreriajpa\Persistencia\exceptions\PreexistingEntityException.java

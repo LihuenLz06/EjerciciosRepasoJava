@@ -1,0 +1,15 @@
+com\mycompany\libreriajpa\Entidades\Autor_.class
+com\mycompany\libreriajpa\Persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\libreriajpa\Entidades\Editorial.class
+com\mycompany\libreriajpa\LibreriaJPA.class
+com\mycompany\libreriajpa\Persistencia\LibroJpaController.class
+com\mycompany\libreriajpa\Entidades\Editorial_.class
+com\mycompany\libreriajpa\Entidades\Libro_.class
+com\mycompany\libreriajpa\Persistencia\CRUD.class
+com\mycompany\libreriajpa\Persistencia\AutorJpaController.class
+com\mycompany\libreriajpa\Entidades\Libro.class
+com\mycompany\libreriajpa\Entidades\Autor.class
+com\mycompany\libreriajpa\Persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\libreriajpa\Persistencia\EditorialJpaController.class
+com\mycompany\libreriajpa\Persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\libreriajpa\Servicios\Servicio.class
